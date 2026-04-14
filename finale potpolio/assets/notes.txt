@@ -1,7 +1,0 @@
-assets/videos/hero-1.mp4
-assets/videos/hero-2.mp4
-assets/videos/hero-3.mp4
-
-assets/images/hero-poster-1.jpg
-assets/images/hero-poster-2.jpg
-assets/images/hero-poster-3.jpg
